@@ -1,0 +1,7 @@
+trigger: brach
+
+steps:
+  step:
+    name: ok
+    command: "curl -o https://google.com"
+
